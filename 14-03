@@ -34,8 +34,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|lic
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
 
@@ -1456,7 +1455,8 @@ https://e.siar.us/live/deikidstv.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 #EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742344292/ei/BLzZZ6W5N4aDjuMPqt-u8QE/ip/36.72.90.19/id/t6mQuf-ICzk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/bui/AccgBcPPomsa4-tDZ2TF6Lfyz9_6VawBA1lVTaEEQT2UA1PO49gaDs9U1LSwAy-06gjnOXWJcxPjiXjo/spc/_S3wKjIHK7GUoxqfWAzPhZmSGXW8kWjo9JLnGWnNJVsFzDiS9pCOAY4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgG2vw_Dquaklhha8pUPH6akelyxyGJH3gxE2OftcubZ0CIQC-_V1QqRoUpD0CfhPG3V8oE2UqpmCyhB2LpOoRBcnCRQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742344451/ei/o7zZZ4PYHcPT3LUPiJ7cyQg/ip/36.72.90.19/id/K2daWqtu7QE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcNHX8ZJdJWRV_4UcziZWAnE95yk7ZA_EooQeOBvhWR3XFjrhvwD4L5lrjCeAxgZyWACeALfEIwZ/spc/_S3wKhPx-8vJh9cha1uH9hfE1dmNi0RA4UBEv5UDEh9Z1CqBt81J980/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDexP9UrRjp6hPG5k0j2blrOMta-OIOPJ6Ks-UKfc42YCICCK0JjyGp3na0VhiNtl-SaljUgju42ein__SRwXcqHd/file/index.m3u8
+
 
 
 
@@ -1507,8 +1507,7 @@ https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="",DO'A HARIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742344451/ei/o7zZZ4PYHcPT3LUPiJ7cyQg/ip/36.72.90.19/id/K2daWqtu7QE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcNHX8ZJdJWRV_4UcziZWAnE95yk7ZA_EooQeOBvhWR3XFjrhvwD4L5lrjCeAxgZyWACeALfEIwZ/spc/_S3wKhPx-8vJh9cha1uH9hfE1dmNi0RA4UBEv5UDEh9Z1CqBt81J980/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDexP9UrRjp6hPG5k0j2blrOMta-OIOPJ6Ks-UKfc42YCICCK0JjyGp3na0VhiNtl-SaljUgju42ein__SRwXcqHd/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742352245/ei/FdvZZ87PG76kg8UPiuLryAU/ip/36.72.90.19/id/kNi5RJlg57o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcN2b5sNDXXaHQU2PnpnToe06wjM9Iy4LiXGB08_jUhAWKUzwxd7JQDv-_KyKzhpP2giSzFrJs0l/spc/_S3wKp3Rw3W7NCWdrm0dpT7dxDe07kVU8-pqB6ENW8qkxeYFgImg4nQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMyZkxZuVnzcGIRws55-G-f37fO0VpnR-PVmU4JvAQBNAiEA8lC-uTqj5oXCOg5hRksoElvg2mqEeSHGKmjiAueO1so%3D/file/index.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="",YT DO'A
