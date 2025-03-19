@@ -2,21 +2,21 @@
 
 TIMNAS DAY
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="🌟TIMNAS DAY🌟",Soccer Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="ðŸŒŸTIMNAS DAYðŸŒŸ",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="🌟TIMNAS DAY🌟",Sportstars 1 HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="ðŸŒŸTIMNAS DAYðŸŒŸ",Sportstars 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="🌟TIMNAS DAY🌟",Sportstars 2 HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="ðŸŒŸTIMNAS DAYðŸŒŸ",Sportstars 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
@@ -24,7 +24,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 
 
 
-#EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="🌟TIMNAS DAY🌟", SPORTSTARS 4 HD
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="ðŸŒŸTIMNAS DAYðŸŒŸ", SPORTSTARS 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -34,7 +34,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
-#EXTINF:-1 group-title="🌟TIMNAS DAY🌟" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png",SINDONEWS
+#EXTINF:-1 group-title="ðŸŒŸTIMNAS DAYðŸŒŸ" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png",SINDONEWS
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
@@ -1336,7 +1336,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/th97cC2/quran.png",Qur'an TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742337220/ei/ZKDZZ-XvMpGlg8UPjoPasA8/ip/36.72.90.19/id/zVaXfF3uZbI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMBAmTI1MS5JTrsacEp_buXeR0ML3NhPEAMkA3rIiKQ418AFZjQWSNs5S-LGQyL_pZn0TADNiW8/spc/_S3wKjyN_fLzkEvRfGXIsNeXCds_ymDiTbIQciGCXjdGKmQro-cFuD86wIbecrE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKuP0m5rCQgYJJvdYQRc2QGSNQuv2EC00ZE7yE7VnVdIAiBBTtXZe6qmj55mrFZTrLoQmJtWgGrP7rff91La1DpQaQ%3D%3D/file/index.m3u8
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/Qur'anTV.m3u8
 #https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
@@ -1349,7 +1348,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png",Sunnah TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742339136/ei/4KfZZ8rUDsuRvcAPpdHEyQc/ip/36.72.90.19/id/Kt7hKHlArl8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcPa8Tea7N1z7tlgaWsWrn3kiNBakuhvN9EPvQLWdI9gJKhw3OwhD0Yh59Wwgy0kXtg4iNty2Din/spc/_S3wKg-QjSGCQgxrYroonUD1Cil3F1VBAm5ZYmCM6YU9vPudC81-vlxcurJp5Hs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNm47z-BUyFi6-kWKYgs13-JtTAKpNYHb1ltbr5IqCCMCIES98imrDT_uO6ldaYR_z9bAOEgOW84wOrpFPiHt3oR6/file/index.m3u8
 #https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 
 
@@ -1417,19 +1415,16 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="rasyaad" tvg-logo="https://i.ibb.co.com/SG4bLSC/Rasyaad.png",RASYAAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742341766/ei/JrLZZ76-E73IssUP052ggAc/ip/36.72.90.19/id/t6mQuf-ICzk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/bui/AccgBcPDnYhIfXnsxMztsTv9E3Owvx_PhSmnAxNkBKg7IlxwDHmllZV_8oFTQpauV8_xK6dsOQnpTiqm/spc/_S3wKt6R643nkrFlYI21qQXVpu4hUZ6zOejtX2WFbkDtAY-iXCoRY1eSPoLSAJfMkp75rw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJNwstApyHJnoYScInHhSKTCIvsgVQjXiq5xyrwH34aJAiBYk80QVoWzuHLiilZ2ww7rHtoaETTbDWYhJGH--LlV1A%3D%3D/file/index.m3u8
 
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/M287VXV/medstv.png",MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342258/ei/ErTZZ6TNDsHT3LUPzpTAuQU/ip/36.72.90.19/id/wnX1Yy4qpkA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcOimK_-H20-P5a78ELzc0CAyqXehCG1WiKRO33lf11M_M2UpOhNWnYDsnC1nrcSTEd3gg/spc/_S3wKmMDShmTS8Pd9Z37J8ag1ONDwoAEAstbXrg39vxxvgD6e839cXzjHAOKELRmitJo6vJDItiu8eQq2l8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIhAL9jUPmfVb2T57uAWA9rG9rjJOjAH7mZYAn5bW6jW3axAh9eynn0Tgw6BlgACw5bmaJtlEb7fpI74uiWciVzmSeV/file/index.m3u8
 
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/KxkB2ny/srb.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342403/ei/o7TZZ9SwLImz2roPxsSdmQY/ip/36.72.90.19/id/zAM38eXb7DM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcM0oLof3vI_7rvjp-biwn1Y9yKpcthDJ2ll-JsyxOLI2eSvBIWICMsQPNhxMFtg1PGtEQ/spc/_S3wKoXaFZ04OhDY_Fdk4g2v_HWNEZe-9aiYJnUgTRklFhJveRr5KfDrRV-Tj1pRpgNM36XegjqwtfBwmto/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPnchs5jKqIbbu7kdXsBCEzdxI7JScrB2k0NiArh7UCMCIBGbMONGk2cERG5OCksDuaDcmLIa-aJikJUe1o4gSeKT/file/index.m3u8
 
 
 
@@ -1437,14 +1432,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342403/ei/o
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="Ufa" tvg-logo="https://i.ibb.co.com/8LXbZ23M/Ufa.png",UFA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342614/ei/drXZZ4-nJ4KK4-EPva-akQ4/ip/36.72.90.19/id/ecXRSSy4R8Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcODoH6x3wqs8GWahlz9akGrde2BHwiDtBWGbji82j6iCHBaoX9PLKUvP5hElCXplSjyKQ/spc/_S3wKv9SQSAmVGWJGCIG6J_wfal_IPOmsGjQEuQ9eICBpBOU4udRU6jesdhYHCmSHAMhVY_hVu4RE5O2ZCY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOnGIcMjFFGMffj41P_jDfqhOi3fVIK3nrfgZg_i-SeCAiAtcnPEmX4-6mj3oFe5Fwqbfy7ItMAd5_AqSkpxYKeL8A%3D%3D/file/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/SXBvHRcM/Ld.png",LAFADZ DO'A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342714/ei/2rXZZ6RpsNvctQ-4lPbhCw/ip/36.72.90.19/id/gyyvnEwMqjk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcMe_H60BZcuSxXaVgeYtLbzdzxm0kiuGQXUXCp6_-pOJt5sOmb30q_M1Hc3W4_46NK76g/spc/_S3wKlely3JL-I1IAvceL3GMLsGRZDnhb8nmeAaFV_-gobNZI6nfu7eByZoEySApLYEirQ_V8lYBCLZJ4uc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPnuqfCJQAZNcmCrNn1_2O90XdODqDhWfJEsL7zakvxdAiEAiZGG2A973GhsPFyZYKC4JFEqLuij3uZV73Q9n3ABcUA%3D/file/index.m3u8
+
 
 
 
@@ -1452,8 +1446,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342714/ei/2
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="st" tvg-logo="",SEYEGAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342853/ei/ZbbZZ8uKE_Ong8UPsbKBqQU/ip/36.72.90.19/id/7onJaqOpOxA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcMcMcVHHGtPorSHXBr_soUjbmiEQsleeaux7QRxNKKXlsr9yJiVRfU3vScF4RfUXSdWKQ/spc/_S3wKnViEXQ_dg2NHxSj49YccJpUBBotqcQNT77YUDOkltJgz_J7hBjnS7u1KobVP4wHjKMxFb3kA-60LxE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgK5rYySA0aYwW_YiHhbaVXRFHKz-yXW6YqZjKZDKwIq0CIFCOkN7dWiF8a24l6uWT5KYMO8r363zv-pSQcI_jNfy7/file/index.m3u8
-
 
 
 
@@ -1464,7 +1456,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742342853/ei/Z
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sjp" tvg-logo="https://i.ibb.co.com/gDgfDLK/sjp.png",SJP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742343044/ei/JLfZZ5zJGf27g8UPse6X-AE/ip/36.72.90.19/id/-rJ8c2_GJ4Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcM4WutQ1NGZraDc7Vyr7ucn-lBg433qFPnIBKKU18Mr-NUYwu7Qgwu5knwcHIn4ATkC5g/spc/_S3wKr5iV0sr9eankZ0HuosP2QQ5vs4zaf2zP2IRcctHfDYbXh_bQz12KjgdnRtDrsQ_MgqW-liYD2dr60g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALCV1fjffpZ2tSzecDW4m5qOORwlOqKWQQ7rkb283-l2AiB24NZXLoEbENuT8gUZfLVCGRquzhFXEw2eoMdBbBcROw%3D%3D/file/index.m3u8
 
 
 
@@ -1483,7 +1474,6 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="khbtv.id" tvg-logo="https://i.ibb.co.com/SVpPHsb/khb.png",KHB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742343235/ei/47fZZ-WlINqU4t4P2K3HuAw/ip/36.72.90.19/id/Me04WYTpBOI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/bui/AccgBcNc_KvCBx0R0mei89TekggJeNpDXJQ7L5zWpFQ4fkaOhZCnM58ZROVOcS3xoUnk9jZahw/spc/_S3wKqCuw4lhBu8nXXU9OvGM539-iJuKnJ6BFv8s3SmdYdA8VvNsAwK5AY2dt3xGYx9toP-r1fo1_sygLX8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLRQ26omVOBa6LqbalFm7CUNd6FeRzdkje_69FLj64ggCIQDE7yTmlPexUhUDsdlWJSrvq1Z-32HDlU7A9hWVgYdHWw%3D%3D/file/index.m3u8
 
 
 
@@ -1495,8 +1485,7 @@ https://e.siar.us/live/deikidstv.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742344451/ei/o7zZZ4PYHcPT3LUPiJ7cyQg/ip/36.72.90.19/id/K2daWqtu7QE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcNHX8ZJdJWRV_4UcziZWAnE95yk7ZA_EooQeOBvhWR3XFjrhvwD4L5lrjCeAxgZyWACeALfEIwZ/spc/_S3wKhPx-8vJh9cha1uH9hfE1dmNi0RA4UBEv5UDEh9Z1CqBt81J980/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDexP9UrRjp6hPG5k0j2blrOMta-OIOPJ6Ks-UKfc42YCICCK0JjyGp3na0VhiNtl-SaljUgju42ein__SRwXcqHd/file/index.m3u8
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 
 
@@ -1548,17 +1537,16 @@ https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="",DO'A HARIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742352245/ei/FdvZZ87PG76kg8UPiuLryAU/ip/36.72.90.19/id/kNi5RJlg57o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcN2b5sNDXXaHQU2PnpnToe06wjM9Iy4LiXGB08_jUhAWKUzwxd7JQDv-_KyKzhpP2giSzFrJs0l/spc/_S3wKp3Rw3W7NCWdrm0dpT7dxDe07kVU8-pqB6ENW8qkxeYFgImg4nQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMyZkxZuVnzcGIRws55-G-f37fO0VpnR-PVmU4JvAQBNAiEA8lC-uTqj5oXCOg5hRksoElvg2mqEeSHGKmjiAueO1so%3D/file/index.m3u8
+
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="",YT DO'A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742344891/ei/W77ZZ6tQ353i3g-gtPXQCA/ip/36.72.90.19/id/Ha-IoZmdqC4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcO5RQVLrf4tRzSuHYm9e7eGJW0a1rZVDxdy_96BKpIBaI4jljp2CHpea_XEH0MHPIg5wUouJZUE/spc/_S3wKuoeLtiynrOwpe1UGgGsUXKPiicfY6_ogGFJqy2C568WWP25YQc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOYrNuP5CySGbj62P4fjIjRpjY_wwhCe11o0Vl82mWEHAiBsv85A3cC5MXV9k0dW-q4pZP306rI4MLpoM9zN0HhRYA%3D%3D/file/index.m3u8
+
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="tarbiyyah" tvg-logo="https://i.ibb.co.com/dshMxPb1/tarbiyyah.png",TARBIYYAH SUNNAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742356737/ei/oezZZ8qKIquU4t4PuuuM4Aw/ip/36.72.90.19/id/GhA5R6zrXUE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcMPYKm2WWcUlcbakIxsCL9wD4c0QR3yum5rMvs-QoOWm6Ev1gV25Q7YdzACpAfm7Cg01RsJOy3w/spc/_S3wKg2u-QW16cHWqHS4r2am6SOXJ3wmGxRi_egvWWugZWSbWXGvxXw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANqET0-HJSCBoOT-QkAUC0_aPEKJj2-DdsK4K6xA2-DAAiBXmq_AtFR1JnelIEO27JscIWpmD16YurwSZ65NPkbixA%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="tvsunnah.id" tvg-logo="https://i.ibb.co.com/XzYBgX1/tvsunnah.png",TV SUNNAH
@@ -2317,7 +2305,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://iili.io/JmozpyX.png" group-title="SPORTS",beIN Sports Xtra en Español
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://iili.io/JmozpyX.png" group-title="SPORTS",beIN Sports Xtra en EspaÃ±ol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 
@@ -2669,7 +2657,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
 
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/YdngBPg/mutv.png" group-title="SPORTS",MUTV |🏴󠁧󠁢󠁥󠁮󠁧󠁿|
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/YdngBPg/mutv.png" group-title="SPORTS",MUTV |ðŸ´ó §ó ¢ó ¥ó ®ó §ó ¿|
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 
