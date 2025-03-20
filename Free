@@ -814,7 +814,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="Flik" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/FXm0jc5.png" group-title="MOVIES",FLIK
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165095
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165095
 
 
 
@@ -992,7 +992,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="bi" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="MOVIES",BIOSKOP INDONESIA
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/264801
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/264801
  
  
  
@@ -1014,7 +1014,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="cw" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKdzb0-sOhgCnLaWuFVHzyPLJs3I8o3O09EawA7YppqUNwYP56kHy20DQ&s=10" group-title="MOVIES",CINEMA WORLD
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165082
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165082
  
  
  
@@ -1500,7 +1500,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nabawi TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png" group-title="RELIGI",Nabawi TV
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306469
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306469
 
 
 
@@ -1617,7 +1617,7 @@ https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
 
 
 #EXTINF:-1 tvg-id="mtv00s" tvg-logo="https://i.ibb.co.com/gLvxG8R1/MTV00s.png" group-title="MUSIC",MTV 00s
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/304357
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/304357
 
 
 
