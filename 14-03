@@ -52,7 +52,27 @@ UEFA NATIONS LEAGUE
 
 
 
-#EXTINF:0 tvg-id="SS4" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", DENMARK VS PORTUGAL
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90",PORTUGAL VS DENMARK
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+#EXTINF:0 tvg-id="SOCCER CHANNEL" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE",GERMANY VS ITALY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+
+
+
+#EXTINF:0 tvg-id="SPORTSTAR 1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE",FRANCE VS CROATIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+
+#EXTINF:0 tvg-id="SPORTSTARS 4" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", SPAIN VS NETHERLANDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,10 +82,23 @@ UEFA NATIONS LEAGUE
 
 
 
-#EXTINF:0 tvg-id="dazn1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", KROASIA VS PRANCIS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+#EXTINF:0 tvg-id="DAZN 1 DE" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", HUNGARY VS TURKIYE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+#https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , SPAIN VS NETHERLANDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
+
+
 
 
 
@@ -88,23 +121,23 @@ UEFA NATIONS LEAGUE
 
 
 
-#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , GREECE VS SCOTLAND
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 5" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , IRELAND VS BULGARIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-#https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , UKRAINA VS BELGIA
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 6" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , BELGIUM VS UKRAINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-#https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , BULGARIA VS IRLANDIA
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 7" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , BULGARIA VS IRLANDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,7 +145,7 @@ UEFA NATIONS LEAGUE
 #https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , AUSTRIA VS SERBIA
+#EXTINF:-1 tvg-id="ARENA SPORTS PREMIUM 1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , AUSTRIA VS SERBIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
