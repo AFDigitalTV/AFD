@@ -204,8 +204,8 @@ WORLD CUP QUALIFICATION
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Indonesia", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://allcutv.rctiplus.id/gtv2023.m3u8
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 =======================================
 
@@ -219,7 +219,8 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="Indonesia",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 =======================================
 
