@@ -456,7 +456,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="DAERAH",JAMBI TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+#https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
 
 
@@ -589,11 +589,11 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="DAERAH",Timor TV
-https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Jektv_Jambi.png" group-title="DAERAH",JEKTV
-https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
 
 
 
@@ -609,7 +609,7 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="DAERAH",Natuna TV
-https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
 
 
  
@@ -618,7 +618,7 @@ https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.
 
  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://iili.io/d0P94KN.png" group-title="DAERAH",USM TV Semarang
-https://63b2dc7196c38.streamlock.net:1937/usmtv/myStream/playlist.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/usmtv/myStream/playlist.m3u8
 
 
 
@@ -630,12 +630,12 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/3cf8JJL/simpang5.png" group-title="DAERAH",Simpang 5 TV Semarang
-https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
 
 
  
 #EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/JbtnSCF.png" group-title="DAERAH",BMS TV
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
  
 
@@ -643,7 +643,7 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/YjS0g65/pontv.png" group-title="DAERAH",PON TV Pontianak
-https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
 
 
 
