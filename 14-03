@@ -1,11 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="TIMNAS",RCTI
-http://www.geocities.ws/wahyuiptv/RCTI-HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="TIMNAS",ASTRO ARENA BOLA 2
-http://extraott.com:900/live/3162523972/3791698850/401550643.m3u8
 ==================================================Indonesia=Channels==================================================
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Indonesia", GTV
