@@ -3253,6 +3253,10 @@ https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u
 #http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referrer=https://www.doomovie-hd.com/
 
  
+ #EXTINF:-1 tvg-id="NPS" group-title="LIGA INGGRIS" tvg-name="NPS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png", NOW PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/scl/fi/li2kqj85upd8jnkfgtjtg/now-premier-sports-1.m3u8?rlkey=nsd2rh0xvuu0r8m29m05t9aql&st=5fp009at
+ 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIGA INGGRIS",POKER TV
@@ -3392,6 +3396,12 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 #https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+
+
+#EXTINF:-1 tvg-id="NPS" group-title="LIGA SPANYOL" tvg-name="NPS" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png", NOW SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8?rlkey=prl6veyvkebc6pgomefag3x7d&st=rv0lh5dh
 
 
 
@@ -4139,5 +4149,16 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 
 #EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="TEST",BWF
 https://bf.shandongjncz.com/live/sd-24-4661728.m3u8?txSecret=be5e816c0c3610429af5a6a05c28cf0e&txTime=67dea218
+
+
+#EXTINF:-1 tvg-id="NPS" group-title="TEST" tvg-name="NPS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png", NOW PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/scl/fi/li2kqj85upd8jnkfgtjtg/now-premier-sports-1.m3u8?rlkey=nsd2rh0xvuu0r8m29m05t9aql&st=5fp009at
+ 
+#EXTINF:-1 tvg-id="NPS" group-title="TEST" tvg-name="NPS" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png", NOW SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8?rlkey=prl6veyvkebc6pgomefag3x7d&st=rv0lh5dh
+
+
 
 
