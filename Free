@@ -1,6 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="LIVE EVENT", COURT 1
+http://43.152.23.41/play.cbalive.weibisai.com/live/3873151887422061_AiSD.m3u8?txSecret=7717bb741b5c5e1dd09a3b37348bae38&txTime=67F9E540
 
+#EXTINF:-1  tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="LIVE EVENT", COURT 2
+http://43.152.23.41/play.cbalive.weibisai.com/live/3873152001738061_AiSD.m3u8?txSecret=f408bd031b1fdbf4785993a237f6af0c&txTime=67F9E540
 
 <=========================================== Indonesia Channels =======================================>
 
