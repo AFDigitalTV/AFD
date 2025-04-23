@@ -1,1 +1,1 @@
-# AFD
+# Jangan asal comot
