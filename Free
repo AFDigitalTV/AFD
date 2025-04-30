@@ -438,7 +438,8 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Rtivi.m3u8
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzQqRTdxUspeh1TYS1S-V4XZO7du68FvrbqjMX2aMd1ZdQSP7h5qxk0c&s=10",BERITASATU HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/berita1.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/berita1.m3u8
 
 =======================================
 
@@ -1957,7 +1958,6 @@ free
 
 
 
-
 ========SPORTS INDO========
 ========SPORTS INDO========
 ========SPORTS INDO========
@@ -2212,6 +2212,7 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=passv
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/RGcrYV6r/IMG-20250204-141013.jpg" group-title="LIGA ARAB",UNTUK MEMBUKA CHANNEL INI SILAHKAN HUBUNGI PENYEDIA LAYANAN
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=passv
+
 
 
 
