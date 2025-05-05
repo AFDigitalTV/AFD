@@ -234,24 +234,25 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u
 #EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA HD", GTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=3&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|referrer=https://visionplus.id
 
 =======================================
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="INDONESIA HD",RCTI HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd|referrer=https://visionplus.id
+
 
 =======================================
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 2].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="INDONESIA HD",MNC TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=2&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|referrer=https://visionplus.id
 
 =======================================
 
@@ -1984,6 +1985,7 @@ free
 
 
 
+
 ========SPORTS INDO========
 ========SPORTS INDO========
 ========SPORTS INDO========
@@ -2238,7 +2240,6 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=passv
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/RGcrYV6r/IMG-20250204-141013.jpg" group-title="LIGA ARAB",UNTUK MEMBUKA CHANNEL INI SILAHKAN HUBUNGI PENYEDIA LAYANAN
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=passv
-
 
 
 
