@@ -1666,9 +1666,32 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8|referrer=https://dens.tv/
 
 
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 88].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/ccgDL0gb/CT.png" group-title="ENTERTAINMENT",CELEBRITIES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd|referrer=https://visionplus.id
 
+#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 87].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/rRgyfQcn/VP.png" group-title="ENTERTAINMENT",Vision Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd|referrer=https://visionplus.id
 
+#EXTINF:-1 tvg-id="Entertainment - [Channel 72].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/4w4R17MJ/ENT.png" group-title="ENTERTAINMENT",ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd|referrer=https://visionplus.id
 
+#EXTINF:-1 tvg-id="food travel" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/4w4R17MJ/ENT.png" group-title="ENTERTAINMENT",FOOD TRAVEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTVnow/sa_dash/OKTVnow.mpd|referrer=https://visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1807,6 +1830,28 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd|referrer=https://visionplus.id
+
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL" tvg-name="" tvg-logo="https://ig" group-title="KNOWLEDGE", OUTDOOR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd|referrer=https://visionplus.id
+
+
+#EXTINF:-1 tvg-id="GLOBAL TREKKER" tvg-name="" tvg-logo="https://ig" group-title="KNOWLEDGE", GLOBAL TREKKER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|referrer=https://visionplus.id
+
+#EXTINF:-1 tvg-id="ABC AUSTRALIA" tvg-name="" tvg-logo="https://ig" group-title="KNOWLEDGE", ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd|referrer=https://visionplus.id
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2051,6 +2096,7 @@ free
 
 
 
+
 ========SPORTS INDO========
 ========SPORTS INDO========
 ========SPORTS INDO========
@@ -2287,7 +2333,6 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=passv
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/RGcrYV6r/IMG-20250204-141013.jpg" group-title="LIGA ARAB",UNTUK MEMBUKA CHANNEL INI SILAHKAN HUBUNGI PENYEDIA LAYANAN
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=passv
-
 
 
 
