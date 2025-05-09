@@ -71,15 +71,19 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u
 
 =======================================
 
-#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Indonesia",TRANSTV HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="Indonesia",TRANSTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|referrer=https://www.visionplus.id/
 
 =======================================
 
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia",TRANS7 HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="Indonesia",TRANS7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd|referrer=https://www.visionplus.id/
 
 =======================================
 
@@ -189,7 +193,7 @@ $https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="beritasatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzQqRTdxUspeh1TYS1S-V4XZO7du68FvrbqjMX2aMd1ZdQSP7h5qxk0c&s=10",BERITASATU
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/berita1.m3u8
 
 =======================================
 
@@ -202,9 +206,9 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="Indonesia",TV KESEHATAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="Indonesia",TV KESEHATAN OFF
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 =======================================
 
@@ -440,8 +444,8 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/rtv.m3u
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzQqRTdxUspeh1TYS1S-V4XZO7du68FvrbqjMX2aMd1ZdQSP7h5qxk0c&s=10",BERITASATU HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/berita1.m3u8
+#https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/berita1.m3u8
 
 =======================================
 
