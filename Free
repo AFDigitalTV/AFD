@@ -1968,6 +1968,7 @@ free
 
 
 
+
 ========SPORTS INDO========
 ========SPORTS INDO========
 ========SPORTS INDO========
@@ -2016,7 +2017,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
 
 =======================================
@@ -2026,7 +2027,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
 =======================================
 
@@ -2036,7 +2037,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
 =======================================
 
@@ -2045,7 +2046,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 =======================================
 
@@ -2054,7 +2055,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 =======================================
 
@@ -2120,7 +2121,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
-https://terabit.web.id/media.mpd?id=119&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=119&type=dash|referrer=https://visionplus.id/
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|referrer=https://visionplus.id/
 
 =======================================
@@ -2130,7 +2131,7 @@ https://terabit.web.id/media.mpd?id=119&type=dash|referrer=https://visionplus.id
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
-https://terabit.web.id/media.mpd?id=120&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=120&type=dash|referrer=https://visionplus.id/
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|referrer=https://visionplus.id/
 
 =======================================
@@ -2791,7 +2792,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 =======================================
 
@@ -2800,7 +2801,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 =======================================
 
@@ -3127,7 +3128,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-
 
 
 
