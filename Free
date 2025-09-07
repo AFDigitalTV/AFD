@@ -93,16 +93,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8237&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png" group-title="Indonesia",Mentari TV (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
@@ -117,7 +117,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="Indonesia",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
@@ -277,8 +277,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 =======================================
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/berita1.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 
 =======================================
 
@@ -311,7 +310,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://i.ibb.co.com/HDvBTm58/KTV.png" group-title="Indonesia", KTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u8
 
 =======================================
 =================================================Indonesia=Channels=HD================================================
@@ -414,12 +413,12 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8237&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA HD" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
@@ -434,7 +433,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="INDONESIA HD",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
@@ -574,8 +573,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 =======================================
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU HD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/berita1.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 
 =======================================
 
@@ -593,7 +591,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://i.ibb.co.com/HDvBTm58/KTV.png" group-title="INDONESIA HD", KTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u8
 =======================================
 =======================================================DAERAH======================================================
 =======================================
@@ -1273,24 +1271,26 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="KIDS",Mentari TV (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8237&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="KIDS", RTV SD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/rtv.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 =======================================
 
