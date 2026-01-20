@@ -1268,6 +1268,18 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;useri
 
 =======================================
 
+#EXTINF:0 tvg-logo="https://linktr.ee/og/image/ALBAHJAH.TV.jpg" group-title="RELIGI", Al Bahjah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://202.150.161.117:8000/play/AlBahjahTV
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQFp3HiflczPJ-jZ0ruzeOP1bNuJJgoFHehHOdbg4zA&s" group-title="RELIGI",Nabawi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://202.150.161.117:8000/play/NabawiTV
+
+=======================================
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/svsvL2jf/MUSLIM.png" group-title="RELIGI",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
