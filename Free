@@ -1,6 +1,165 @@
 #EXTM3U
-awal
 
+awalan
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 6/FEBRUARI/2026" , 15:30 WIB PSIM Yogyakarta vs Persis Solo
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel22.m3u8?wsSecret=7908ac240c224a7ab292ed78e3f396bd&wsABSTime=1767551485
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/nrEUfjpp6KLotwMKY-l8k42-qtM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5457834/original/076905400_1767059927-InShot_20251230_085300398.jpg" group-title="EVENT 5/FEBRUARI/2026" , AFC Futsal Asian Cup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
+=======================================
+=================VOLI==================
+=======================================
+#https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png
+
+=======================================
+==============BADMINTON==============
+=======================================
+#https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/FEBRUARI/2026", Badminton Asia Team Championships 2026
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 9/JANUARI/2026", Malaysia Open
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#https://hotlivezz179026907.akainu.xyz/kkkPJI-zn53jNgRSCdTQuw/Fv2lucGIbhPi2caWYvF5Lg/1764562804455/live/may251/chunklist.m3u8
+
+=======================================
+==============LIVE SPORTS==============
+=======================================
+
+
+=======================================
+===============LIGA INDO===============
+=======================================
+#https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png
+
+=======================================
+=======================================
+==============LIGA INGGRIS=============
+=======================================
+#https://i.ibb.co.com/twxFhvBY/PLE.png
+
+#EXTINF:-1 group-title="EVENT 1/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB West Ham United vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
+
+
+
+
+=======================================
+=======================================
+==============LIGA SPANYOL============
+=======================================
+#https://i.ibb.co.com/1JwYR5NV/LALIGA.png
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 1/FEBRUARI/2026", 03:00 WIB Rayo Vallecano vs Getafe
+
+=======================================
+=======================================
+==============LIGA ITALI================
+=======================================
+#https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 3/JANUARI/2026" , 02:45 WIB Cagliari vs Milan
+
+#http://adp-premium.my.id/event/stream_camel1.php?id=y0or5jh83ylnqwz
+
+#https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
+
+#https://www.camel1.live/football/persatuan-sepak-bola-indonesia-kediri-vs-persib-bandung/live/y0or5jh83ylnqwz
+
+
+=======================================
+=======================================
+=============LIGA JERMAN==============
+=======================================
+#https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png
+
+
+
+#EXTINF:-1 tvg-id="DFB-POKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenFRxJl6oZX5RSpMRnV1qsA8FlwMSYZW3RWRiYE7wxA&s=10" group-title="EVENT 4/DESEMBER/2025" , 02:45 WIB Union Berlin vs Bayern Munchen
+
+
+=======================================
+=======================================
+=============LIGA PRANCIS==============
+=======================================
+#https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png" group-title="EVENT 29/NOVEMBER/2025" , 23:00 WIB Monaco vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+KOMPETISI TAMBAHAN
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#https://shorter.me/w5Y5C
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 30/OKTOBER/2025" , 02:45 WIB Liverpool vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#https://shorter.me/4Cg4p
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 30/OKTOBER/2025" , 02:45 WIB Swansea City vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#https://shorter.me/PlLi_
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 30/OKTOBER/2025" , 02:45 WIB Wolverhampton Wanderers vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#https://shorter.me/enVSO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 30/OKTOBER/2025" , 02:45 WIB Newcastle United vs Tottenham Hotspur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#https://shorter.me/kJAOT
+
+
+=======================================
+=======================================
+===============MOTOGP================
+=======================================
+#https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 9/NOVEMBER/2025", MOTOGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 16/NOVEMBER/2025", MOTOGP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+#https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+=======================================
+==============LIGA ARAB===============
+=======================================
+
+#EXTINF:-1 tvg-id="SSC 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Ldr9NLnS/IMG-20250501-131355.png", SSC 1
+
+=======================================
+===============UCL & UEL===============
+=======================================
+#https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png
 
 ==================================================Indonesia=Channels==================================================
 
@@ -42,8 +201,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
@@ -69,6 +227,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-327
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="MOJI DIGITAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="NASIONAL", MOJI TV DIGITAL
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 =======================================
 
@@ -106,7 +272,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-
 =======================================
 
 #EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV 1
@@ -114,7 +279,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV 2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -137,14 +302,26 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 =======================================
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/1tJQ0Mzp/MAGNA.png" group-title="NASIONAL", Magna Channel
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=http://www.dens.tv/
 
 =======================================
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+#https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
+
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE HD
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 
 =======================================
 
@@ -160,7 +337,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
@@ -207,7 +384,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="NASIONAL", RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.dens.tv/
 
 =======================================
 
@@ -236,7 +413,11 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 =======================================
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
+#http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 
 =======================================
 
@@ -278,6 +459,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+
 
 =======================================
 =======================================================DAERAH======================================================
