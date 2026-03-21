@@ -16,6 +16,7 @@ awalan
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 http://195.178.110.2/hls/INBBQ.m3u8
+https://livecdn-bp-nobar.maypn.stream/stream/24/chunks.m3u8?x-sign=588a0bf5068abd48ca6f46e482dff9db&x-time=1774095960&is_vip=true&token=nobar-7e3fe0f8-c5d2-4253-b112-748fe84501c0
 https://ml-pull-hwc.myco.io/EPLBONGO2/hls/EPLBONGO2_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 
