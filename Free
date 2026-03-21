@@ -15,8 +15,8 @@ awalan
 #EXTINF:-1 group-title="EVENT 21/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Brighton vs Liverpool
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
-
+http://195.178.110.2/hls/INBBQ.m3u8
+https://ml-pull-hwc.myco.io/EPLBONGO2/hls/EPLBONGO2_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 21/MARET/2026", 20:00 WIB Elche vs Mallorca
