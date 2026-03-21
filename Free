@@ -73,7 +73,11 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTINF:-1 group-title="EVENT 22/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 00:30 WIB Everton vs Chelsea
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://195.178.110.2/hls/INBBQ.m3u8
+http://195.178.110.2/hls/ZJJJQ.m3u8
+https://livecdn-bp-nobar.maypn.stream/stream/24/chunks.m3u8?x-sign=4b3149ac1d5aaaf57fc3cf890be80fb5&x-time=1774113660&is_vip=true&token=nobar-7e3fe0f8-c5d2-4253-b112-748fe84501c0
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ad286205-deed-4a96-b783-b1c58ad6c821/1080p/media.m3u8
+https://ml-pull-hwc.myco.io/EPLBONGO4/hls/EPLBONGO4_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/MARET/2026", 00:30 WIB Levante vs Real Oviedo
