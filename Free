@@ -22,7 +22,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="NASIONAL",RCTI HD
-https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
@@ -41,20 +42,21 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#https://indihuy.streamized.net/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 
 
@@ -74,13 +76,13 @@ EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://indihuy.streamized.net/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-#https://aspaltvpasti.top/11111/205.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=205&type=drm
+https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 
 =======================================
 
@@ -243,14 +245,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png", INEWS HD
-https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
@@ -267,7 +269,7 @@ https://indihuy.streamized.net/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" group-title="NASIONAL",KOMPAS TV HD
-https://indihuy.streamized.net/atm/DASH/KOMPAS_TV/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 =======================================
 
@@ -332,13 +334,13 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png", BERITASATU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/hvideo-1280x720.m3u8
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu_abrhd/index.m3u8
 
 =======================================
 
@@ -401,11 +403,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+#https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/Kc73NG74/JOWO.png" group-title="DAERAH", Jowo Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt913.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
