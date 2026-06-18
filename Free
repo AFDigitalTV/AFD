@@ -303,14 +303,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png", INEWS HD
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
@@ -327,7 +327,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" group-title="NASIONAL",KOMPAS TV HD
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
