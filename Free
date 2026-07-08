@@ -570,23 +570,23 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 =======================================
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/Kc73NG74/JOWO.png" group-title="DAERAH",Jowo Channel
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+#https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/Kc73NG74/JOWO.png" group-title="DAERAH", Jowo Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt913.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 =======================================
 
@@ -698,7 +698,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpS0ZqVN/JTV.png" group-title="DAERAH",JTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 =======================================
 
@@ -827,6 +827,7 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="dTVi" tvg-logo="https://i.ibb.co.com/v4S6g8Mx/dTVi.png" group-title="DAERAH",dTVi
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
+
 
 =======================================
 
