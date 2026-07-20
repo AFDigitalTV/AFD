@@ -575,7 +575,7 @@ http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
 =======================================
@@ -654,8 +654,14 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpS0ZqVN/JTV.png" group-title="DAERAH",JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpS0ZqVN/JTV.png" group-title="DAERAH",JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
 =======================================
 
@@ -784,7 +790,6 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="dTVi" tvg-logo="https://i.ibb.co.com/v4S6g8Mx/dTVi.png" group-title="DAERAH",dTVi
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
-
 
 =======================================
 
